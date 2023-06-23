@@ -16,14 +16,11 @@ It was developed in fifth semester for mini project course.
 ## Images
 <img src="https://github.com/yasin-sharif/college-event-details-viewer-mobile-app/blob/main/assets/login.png" width="350"> <img src="https://github.com/yasin-sharif/college-event-details-viewer-mobile-app/blob/main/assets/signup.png" width="350">
 <img src="https://github.com/yasin-sharif/college-event-details-viewer-mobile-app/blob/main/assets/student%20dash.png" width="350">
-<img src="https://github.com/yasin-sharif/college-event-details-viewer-mobile-app/blob/main/assets/student%20dv.png" width="350">
 <img src="https://github.com/yasin-sharif/college-event-details-viewer-mobile-app/blob/main/assets/calendar.png" width="350">
 <img src="https://github.com/yasin-sharif/college-event-details-viewer-mobile-app/blob/main/assets/faculty%20all%20events.png" width="350">
 <img src="https://github.com/yasin-sharif/college-event-details-viewer-mobile-app/blob/main/assets/faculty%20dash.png" width="350">
 <img src="https://github.com/yasin-sharif/college-event-details-viewer-mobile-app/blob/main/assets/add%20event%201.png" width="350">
 <img src="https://github.com/yasin-sharif/college-event-details-viewer-mobile-app/blob/main/assets/add%20event%202.png" width="350">
-<img src="https://github.com/yasin-sharif/college-event-details-viewer-mobile-app/blob/main/assets/faculty%20dv%201.png" width="350">
-<img src="https://github.com/yasin-sharif/college-event-details-viewer-mobile-app/blob/main/assets/faculty%20dv%202.png" width="350">
 <img src="https://github.com/yasin-sharif/college-event-details-viewer-mobile-app/blob/main/assets/delete.png" width="350">
 <img src="https://github.com/yasin-sharif/college-event-details-viewer-mobile-app/blob/main/assets/menu.png" width="350">
 <img src="https://github.com/yasin-sharif/college-event-details-viewer-mobile-app/blob/main/assets/" width="350">
