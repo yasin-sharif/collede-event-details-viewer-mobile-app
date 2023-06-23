@@ -14,16 +14,17 @@ It was developed in fifth semester for mini project course.
 * Edit access only to faculties
 
 ## Images
-![Login](/assets/login.png)
-![Signup](/assets/signup.png)
-![Student dashboard](/assets/student%20dash.png)
-![Student detailed view](/assets/student%20dv.png)
-![Calender scheduling](/assets/calendar.png)
-![All events tab](/assets/faculty%20all%20events.png)
-![Faculty dashboard](/assets/faculty%20dash.png)
-![Faculty-add event](/assets/add%20event%201.png)
-![Faculty-add event further](/assets/add%20event%202.png)
-![Faculty-detail view](/assets/faculty%20dv%201.png)
-![Faculty-detail view further](/assets/faculty%20dv%202.png)
-![Faculty-event delete](/assets/delete.png)
-![Logout](/assets/menu.png)
+<img src="https://github.com/yasin-sharif/college-event-details-viewer-mobile-app/blob/main/assets/login.png" width="350"> <img src="https://github.com/yasin-sharif/college-event-details-viewer-mobile-app/blob/main/assets/signup.png" width="350">
+<img src="https://github.com/yasin-sharif/college-event-details-viewer-mobile-app/blob/main/assets/student%20dash.png" width="350">
+<img src="https://github.com/yasin-sharif/college-event-details-viewer-mobile-app/blob/main/assets/student%20dv.png" width="350">
+<img src="https://github.com/yasin-sharif/college-event-details-viewer-mobile-app/blob/main/assets/calendar.png" width="350">
+<img src="https://github.com/yasin-sharif/college-event-details-viewer-mobile-app/blob/main/assets/faculty%20all%20events.png" width="350">
+<img src="https://github.com/yasin-sharif/college-event-details-viewer-mobile-app/blob/main/assets/faculty%20dash.png" width="350">
+<img src="https://github.com/yasin-sharif/college-event-details-viewer-mobile-app/blob/main/assets/add%20event%201.png" width="350">
+<img src="https://github.com/yasin-sharif/college-event-details-viewer-mobile-app/blob/main/assets/add%20event%202.png" width="350">
+<img src="https://github.com/yasin-sharif/college-event-details-viewer-mobile-app/blob/main/assets/faculty%20dv%201.png" width="350">
+<img src="https://github.com/yasin-sharif/college-event-details-viewer-mobile-app/blob/main/assets/faculty%20dv%202.png" width="350">
+<img src="https://github.com/yasin-sharif/college-event-details-viewer-mobile-app/blob/main/assets/delete.png" width="350">
+<img src="https://github.com/yasin-sharif/college-event-details-viewer-mobile-app/blob/main/assets/menu.png" width="350">
+<img src="https://github.com/yasin-sharif/college-event-details-viewer-mobile-app/blob/main/assets/" width="350">
+
