@@ -13,6 +13,11 @@ It was developed in fifth semester for mini project course.
 * Single tap to open link (if provided)
 * Edit access only to faculties
 
+## Setup
+1. Put java file in project_name/app/src/main/
+2. Replace res file's contents inside project/app/src/main/res
+3. Refer AndroidManifest.xml file also
+
 ## Images
 <img src="https://github.com/yasin-sharif/college-event-details-viewer-mobile-app/blob/main/assets/login.png" width="350"> <img src="https://github.com/yasin-sharif/college-event-details-viewer-mobile-app/blob/main/assets/signup.png" width="350">
 <img src="https://github.com/yasin-sharif/college-event-details-viewer-mobile-app/blob/main/assets/student%20dash.png" width="350">
